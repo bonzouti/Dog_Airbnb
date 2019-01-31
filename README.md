@@ -1,24 +1,14 @@
-# README
+Résumé
+Couuuuucouuuu les mouussss mousss :D Vous allez kiffer notre projet :D :D :D <3
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Instructions
+Vous faites bundle install, 'rails db:migrate' pour créer les tables et 'rails db:seed' pour generer un tas de trucs trop fun! Maintenant tu peux tout voir dans 'rails console'!
 
-Things you may want to cover:
+les renegats PS : Faut dormir j'ai vu des mouss qui bossent jusqu'a 6h du matin :o :o
 
-* Ruby version
+Version
+Ruby 2.5.1 ;)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Auteurs
+@Bouhlel Mohamed
+@Mathieu Pierre
